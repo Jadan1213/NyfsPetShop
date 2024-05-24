@@ -1,4 +1,5 @@
 {
+  "replace": true,
   "values": [
     "petshop:pet_bowl",
     "petshop:pet_bowl_orange",
